@@ -27,7 +27,7 @@ export default function SearchBar({ onSearch, reports }) {
     <div className="mb-6 bg-white p-4 rounded-lg shadow-sm">
       <div className="w-64">
         <label htmlFor="user-filter" className="block text-sm font-medium text-gray-700 mb-1">
-          記入者で検索_test
+          記入者で検索
         </label>
         <select
           id="user-filter"
