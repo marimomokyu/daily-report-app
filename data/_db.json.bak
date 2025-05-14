@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "27672c1b-f697-4507-9239-de86adc6ef14",
+      "username": "新人1",
+      "password": "11111111"
+    },
+    {
+      "id": "d9ec7f01-1030-42fc-9e0e-bfdb344f8be9",
+      "username": "testuser",
+      "password": "password123123"
+    },
+    {
+      "id": "c0470e7a-e203-41c3-a82b-be530c872781",
+      "username": "tesuser",
+      "password": "password123123"
+    },
+    {
+      "id": "852573d0-b9dd-4aba-be55-84642e18dd9e",
+      "username": "testuser2",
+      "password": "password123123"
+    }
+  ],
+  "reports": [
+    {
+      "id": "da8152c2-47ac-41c5-aa4a-3abdcc2600f0",
+      "title": "てすと1(編集1)",
+      "content": "内容テスト1\n改行\n編集1",
+      "date": "2025-05-11",
+      "userId": "1",
+      "userName": "admin",
+      "createdAt": "2025-05-11T02:19:57.092Z",
+      "updatedAt": "2025-05-11T02:21:07.249Z"
+    },
+    {
+      "id": "b38e4ecc-f385-4d69-be16-c590e2d1a444",
+      "title": "新人1",
+      "content": "新人1\nテスト",
+      "date": "2025-05-11",
+      "userId": "27672c1b-f697-4507-9239-de86adc6ef14",
+      "userName": "新人1",
+      "createdAt": "2025-05-11T02:48:35.928Z",
+      "updatedAt": "2025-05-11T02:48:35.928Z"
+    }
+  ]
+}
